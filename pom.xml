@@ -11,6 +11,13 @@
     <modules>
         <module>Homework001</module>
         <module>Homework002-PinokioAndApple</module>
+        <module>Homework002-SarumanAndLannisters</module>
+        <module>Homework002-TheTaskOfTheNumberOfEmployeesOnTheProject</module>
+        <module>Homework002-AGlassThatsHalfFull</module>
+        <module>Homework002-TheAgeOfTheUniverseVsTheAgeOfHumanity</module>
+        <module>Homework002-MortgageDownPayment</module>
+        <module>Homework002-TravelTime</module>
+        <module>Homework002-DiscountsOnShirts</module>
     </modules>
 
     <properties>
