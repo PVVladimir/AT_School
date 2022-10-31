@@ -18,6 +18,11 @@
         <module>Homework002-MortgageDownPayment</module>
         <module>Homework002-TravelTime</module>
         <module>Homework002-DiscountsOnShirts</module>
+        <module>Homework002-Add01</module>
+        <module>Homework002-Add02</module>
+        <module>Homework002-Add03</module>
+        <module>Homework002-Add04</module>
+        <module>Homework002-Add05</module>
     </modules>
 
     <properties>
