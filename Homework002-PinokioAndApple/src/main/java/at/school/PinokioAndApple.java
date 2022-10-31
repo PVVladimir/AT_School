@@ -5,7 +5,8 @@ public class PinokioAndApple {
         final int countPinokioApple = 51;
         System.out.println("У Буратино было " + countPinokioApple + " яблок.");
         final int takeKarabasBarabasApple = 32;
-        System.out.println("Карабас Барабас забрал у него " + takeKarabasBarabasApple + " яблока.");
+        System.out.println("Карабас Барабас забрал у него " + takeKarabasBarabasApple
+                + " яблока.");
         final int leftPinokioApple = countPinokioApple - takeKarabasBarabasApple;
         System.out.println("У Буратино осталось всего " + leftPinokioApple + " яблока.");
     }
