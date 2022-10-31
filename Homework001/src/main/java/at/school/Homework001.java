@@ -1,18 +1,16 @@
-/*
+package at.school;
 
- * Homework for lesson 1
- */
 public class Homework001 {
 
-    private static double squareArea(double side){
+    private static double squareArea(double side) {
         return Math.pow(side, 2);
     }
 
-    private static double circleArea(double radius){
+    private static double circleArea(double radius) {
         return Math.PI * Math.pow(radius, 2);
     }
 
-    private static double triangleArea(double sideA, double sideB, double sideC){
+    private static double triangleArea(double sideA, double sideB, double sideC) {
         double semiPerimeter = (sideA + sideB + sideC) / 2.0;
         return Math.sqrt(semiPerimeter * (semiPerimeter - sideA) * (semiPerimeter - sideB)
                 * (semiPerimeter - sideC));

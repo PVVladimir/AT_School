@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>Homework001</module>
-        <module>Homework002</module>
+        <module>Homework002-PinokioAndApple</module>
     </modules>
 
     <properties>
