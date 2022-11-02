@@ -23,6 +23,14 @@
         <module>Homework002-Add03</module>
         <module>Homework002-Add04</module>
         <module>Homework002-Add05</module>
+        <module>Homework003-SimpleCycle</module>
+        <module>Homework003-SimpleSum</module>
+        <module>Homework003-StrangeAmount</module>
+        <module>Homework003-FamousFizzBuzz</module>
+        <module>Homework003-PrimeNumbers</module>
+        <module>Homework003-StocksOfBuckwheat</module>
+        <module>Homework003-Add01-Triangle</module>
+        <module>Homework003-Add02-MultiplicationTable</module>
     </modules>
 
     <properties>
