@@ -31,6 +31,29 @@
         <module>Homework003-StocksOfBuckwheat</module>
         <module>Homework003-Add01-Triangle</module>
         <module>Homework003-Add02-MultiplicationTable</module>
+        <module>Homework004-ManualInput</module>
+        <module>Homework004-PrintAllArrayElements</module>
+        <module>Homework004-PrintAllArrayElementsWhithIndex</module>
+        <module>Homework004-AutoFillArray</module>
+        <module>Homework004-AutoFillArrayDesc</module>
+        <module>Homework004-ArrayWithRandomElements</module>
+        <module>Homework004-SumOfArrayElements</module>
+        <module>Homework004-LargAndSmallArray</module>
+        <module>Homework004-SortedAscAndUnsortedArray</module>
+        <module>Homework004-SortedDescAndUnsortedArray</module>
+        <module>Homework004-SortedAndUnsortedArray</module>
+        <module>Homework004-WorkWeek</module>
+        <module>Homework004-UnfinishedWorkWeek</module>
+        <module>Homework004-Overtime</module>
+        <module>Homework004-AnomaliesInTheArray</module>
+        <module>Homework004-If-AttractionControl</module>
+        <module>Homework004-If-FightBetweenJediAndSith</module>
+        <module>Homework004-If-Greetings</module>
+        <module>Homework004-If-IdealWeight</module>
+        <module>Homework004-If-OfferSelection</module>
+        <module>Homework004-If-TimeOfDayWithErrorNotifications</module>
+        <module>Homework004-If-TimesOfDay</module>
+        <module>Homework004-If-WeightLossProgram</module>
     </modules>
 
     <properties>
